@@ -1,3 +1,5 @@
+//EZ NEM JO
+
 package com.example.lab03_2
 
 import androidx.appcompat.app.AppCompatActivity
